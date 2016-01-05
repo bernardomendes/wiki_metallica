@@ -45,3 +45,4 @@
 
 ### Relatório: Vendor Rating Transportadora
 ![relatorio_vendor_rating_transportadora](/screens/relatorio_vendor_rating_transportadora.png)
+
